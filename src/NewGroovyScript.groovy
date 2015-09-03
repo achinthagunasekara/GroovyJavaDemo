@@ -155,7 +155,7 @@ def aMap = [
             'Key1': 'Value 1',
             Key2: 'Value 2',
             (keyTest): 'Another value', // parameter must be in ()
-            archie: 'Test Value for Archie' //strings can be within '', "" or nothing
+            achintha: 'Test Value for Achintha' //strings can be within '', "" or nothing
 ]
 
 println aMap['Key1']
@@ -176,7 +176,7 @@ println ""
  * finding keys or values that matches a criteria
  * and creating a list with the results
  */
-def aList2 = aMap.findAll{ it.key == "archie" }
+def aList2 = aMap.findAll{ it.key == "achintha" }
 aList2.each {
     println it
 }
