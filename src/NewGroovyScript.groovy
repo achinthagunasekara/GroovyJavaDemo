@@ -88,7 +88,7 @@ def createGreeter = { name1 ->
     }
   }
 }
-def greetWorld = createGreeter("World")
+def greetWorld = createGreeter("Achintha")
 greetWorld()
 
 println ""
