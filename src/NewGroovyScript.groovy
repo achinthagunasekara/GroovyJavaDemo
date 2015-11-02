@@ -1,7 +1,7 @@
 /* 
- * Groovy Tutorial
- * Archie Gunsekara
- * 2015.09.03
+ * @title: Groovy Tutorial
+ * @author: Archie Gunsekara
+ * @date: 2015.09.03
  */
 
 /* Defineing a simple parameter and accessing the value */
